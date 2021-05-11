@@ -1,12 +1,12 @@
 ### Hi there 👋
-### This is Higor Santos!
+### Welcome to my Github page! I am Higor and I am currently finishing my Computer Science degree at the university of Brasilia!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HigorSantosCIC)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/higorsantoscic/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:higorsantos.cic.unb@gmail.com)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/whoishigor/) 
 
-Welcome to my Github page! I am Higor and I am currently finishing my Computer Science degree at the university of Brasilia!
+
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorSantosCIC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
