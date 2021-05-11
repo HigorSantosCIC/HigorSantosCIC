@@ -11,7 +11,7 @@ Welcome to my Github page! I am Higor and I am currently finishing my Computer S
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorSantosCIC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 🌱 I’m currently learning more JavaScript
-<code><img width="10%" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
+<code><img width="10%" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 
 
 
