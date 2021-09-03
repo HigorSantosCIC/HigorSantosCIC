@@ -23,11 +23,10 @@
 
 
 # Current Status
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorSantosCIC&count_private=true&theme=tokyonight&hide=TeX) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantoscic&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide=TeX)](https://github.com/higorsantoscic/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantoscic&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide=TeX)](https://github.com/higorsantoscic/github-readme-stats)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorSantosCIC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorSantosCIC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" /> -->
 
 <a href="https://github.com/higorsantoscic/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantoscic&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide=TeX" />
