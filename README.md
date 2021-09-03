@@ -29,7 +29,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorSantosCIC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HigorSantosCIC)](https://github.com/HigorSantosCIC/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=higorsantoscic)](https://github.com/higorsantoscic/github-readme-stats)
 
 
 <!--
