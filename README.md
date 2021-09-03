@@ -23,7 +23,9 @@
 
 
 # Current Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorSantosCIC&count_private=true&theme=tokyonight&hide=TeX)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorSantosCIC&count_private=true&theme=tokyonight&hide=TeX) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorsantoscic)](https://github.com/higorsantoscic/github-readme-stats)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorSantosCIC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
