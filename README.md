@@ -9,10 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=ffat-square&logo=Clojure&logoColor=Clojure)
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat-square&logo=Clojure&logoColor=Clojure)
 
 
 🔭💉 I’m currently working as software engineer at QuintoAndar
@@ -22,7 +20,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HigorSantosCIC)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/higorsantoscic/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:higorsantos.cic.unb@gmail.com)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/whoishigor/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/whoishigor/) 
 
 
 # Current Status
