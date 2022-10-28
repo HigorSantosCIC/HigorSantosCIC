@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to my Github page! I am Higor and I am currently finishing my Computer Science degree at the university of Brasilia!
+### Welcome to my Github page! I am Higor and I got my degree in B.Sc.Computer Science at University of Brasilia!
 
 🌱 Technologies with some experience
 
